@@ -1,3 +1,4 @@
-files:
-  - source: /packages/nc-gui/lang/en.json
-    translation: /packages/nc-gui/lang/%osx_locale%.json
+文件：
+  - 来源: /packages/nc-gui/lang/en.json
+  
+    翻译：/packages/nc-gui/lang/%osx_locale%.json
